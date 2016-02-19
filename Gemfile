@@ -13,4 +13,3 @@ gemspec
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
 
-gem 'yaffle', git: 'git://github.com/thatkow/yaffle.git
