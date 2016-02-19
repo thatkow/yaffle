@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Yaffle::VERSION
   s.authors     = ["Andrew Kowalczyk"]
   s.email       = ["andrew@diversityarrays.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Yaffle."
-  s.description = "TODO: Description of Yaffle."
+  s.homepage    = "https://thatkow.atlassian.net"
+  s.summary     = "Implementation of the yaffle tutorial"
+  s.description = "Find the tutorial @ http://guides.rubyonrails.org/plugins.html"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
